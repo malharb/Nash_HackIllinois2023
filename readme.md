@@ -1,5 +1,5 @@
 
-![alt text](/My project-1(1).png)
+![alt text](logo.png)
 
 Inspiration
 
